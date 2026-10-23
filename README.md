@@ -1,4 +1,4 @@
-# who-gets-left-out# who-gets-left-out
+# who-gets-left-out
 
 There are three directories in our GitHub repository:
 1. The "data" directory contains all the data input and output files.
